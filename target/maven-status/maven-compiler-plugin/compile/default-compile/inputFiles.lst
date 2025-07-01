@@ -1,0 +1,16 @@
+C:\Users\alice\eclipse-workspace\maven-servlet\src\main\java\dao\Banco.java
+C:\Users\alice\eclipse-workspace\maven-servlet\src\main\java\gerenciamento\AlteraClienteServlet.java
+C:\Users\alice\eclipse-workspace\maven-servlet\src\main\java\gerenciamento\AlteraVendaServlet.java
+C:\Users\alice\eclipse-workspace\maven-servlet\src\main\java\gerenciamento\AlteraVendedorServlet.java
+C:\Users\alice\eclipse-workspace\maven-servlet\src\main\java\gerenciamento\ListaClientesServlet.java
+C:\Users\alice\eclipse-workspace\maven-servlet\src\main\java\gerenciamento\ListaVendasServlet.java
+C:\Users\alice\eclipse-workspace\maven-servlet\src\main\java\gerenciamento\ListaVendedoresServlet.java
+C:\Users\alice\eclipse-workspace\maven-servlet\src\main\java\gerenciamento\NovaVendaServlet.java
+C:\Users\alice\eclipse-workspace\maven-servlet\src\main\java\gerenciamento\NovoClienteServlet.java
+C:\Users\alice\eclipse-workspace\maven-servlet\src\main\java\gerenciamento\NovoVendedorServlet.java
+C:\Users\alice\eclipse-workspace\maven-servlet\src\main\java\gerenciamento\RemoveClienteServlet.java
+C:\Users\alice\eclipse-workspace\maven-servlet\src\main\java\gerenciamento\RemoveVendaServlet.java
+C:\Users\alice\eclipse-workspace\maven-servlet\src\main\java\gerenciamento\RemoveVendedorServlet.java
+C:\Users\alice\eclipse-workspace\maven-servlet\src\main\java\model\Customer.java
+C:\Users\alice\eclipse-workspace\maven-servlet\src\main\java\model\Order.java
+C:\Users\alice\eclipse-workspace\maven-servlet\src\main\java\model\Salesman.java
